@@ -1,6 +1,10 @@
 # super-memory
 A unified knowledge base service for agentic systems
 
+# Status
+
+Research
+
 # Introduction
 
 Agentic systems need grounded context to perform business functions. `super-memory` aims to provide a turn key knowledge base management solution so teams can focus on their business logic and not the mechanics of storing and indexing data.
